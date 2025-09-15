@@ -1,0 +1,12 @@
+huggingface_hub
+streamlit
+optimum==1.27.0
+onnx==1.16.0
+tqdm==4.67.1
+onnxslim==0.1.48
+numpy==2.2.6
+sacremoses==0.0.53
+sentencepiece==0.1.99
+onnxruntime-gpu==1.20.0
+onnxruntime-tools==1.7.0
+transformers[torch]==4.49.0

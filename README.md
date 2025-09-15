@@ -26,8 +26,8 @@ transformers[torch]==4.49.0
 ## Quick local run
 
 ```bash
-git clone https://github.com/harisnaeem/MarianMT-ONNX-converter.git
-cd MarianMT-ONNX-converter
+git clone https://github.com/harisnaeem/marianmt-onnx-converter.git
+cd marianmt-onnx-converter
 pip install -r requirements.txt   # optional, see notebook for exact versions
-jupyter notebook MarianMT_to_ONNX_Convertor.ipynb
+jupyter notebook marianmt_onnx_convertor.ipynb
 
